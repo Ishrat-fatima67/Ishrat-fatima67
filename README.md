@@ -9,7 +9,6 @@
 ---
 
 ## 💡 About Me
-## 💡 About Me
 
 - 🔭 I’m building AI-driven applications and cloud-integrated web systems  
 - 📚 Currently learning distributed systems, ML deployment & scalable architecture  
@@ -22,9 +21,6 @@
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000?style=for-the-badge)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-000?style=for-the-badge)
-![A*](https://img.shields.io/badge/A*%20Algorithm-000?style=for-the-badge)
-![Minimax](https://img.shields.io/badge/Minimax-000?style=for-the-badge)
-
 ---
 
 ## ☁ Cloud & Backend
@@ -54,5 +50,7 @@
 ---
 
 ## 🌍 Vision
+
+> “Bridging Artificial Intelligence with Cloud Infrastructure to build scalable intelligent systems.”
 
 > “Bridging Artificial Intelligence with Cloud Infrastructure to build scalable intelligent systems.”
