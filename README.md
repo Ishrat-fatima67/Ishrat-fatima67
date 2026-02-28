@@ -51,6 +51,5 @@
 
 ## 🌍 Vision
 
-> “Bridging Artificial Intelligence with Cloud Infrastructure to build scalable intelligent systems.”
 
 > “Bridging Artificial Intelligence with Cloud Infrastructure to build scalable intelligent systems.”
