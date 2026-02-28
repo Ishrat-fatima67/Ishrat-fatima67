@@ -29,7 +29,9 @@
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
 ![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-
+![Jupyter](https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws)
 ---
 
 ## 🌐 Web Development
