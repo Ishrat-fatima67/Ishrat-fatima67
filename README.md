@@ -1,57 +1,98 @@
+<div align="center">
+  <img height="150" src="https://drive.google.com/file/d/1p6rSrd_mBA-H1e62vLiI0mgboMCLkYCx/view?usp=drive_link"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Ishrat Fatima</h1>
 
-<h3 align="center">🚀 AI | ☁ Cloud | 🌐 Web | 🖼 Computer Vision Engineer</h3>
+###
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=FF6F00&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;Designing+Scalable+Cloud+Solutions;Engineering+Modern+Web+Platforms;Computer+Vision+%26+AI+Projects" />
-</p>
+<h3 align="center">AI | ☁ Cloud | 🌐 Web | 🖼 Computer Vision Engineer</h3>
 
----
+###
 
-## 💡 About Me
+<h3 align="left">👩‍💻  About Me</h3>
 
-- 🔭 I’m building AI-driven applications and cloud-integrated web systems  
-- 📚 Currently learning distributed systems, ML deployment & scalable architecture  
-- ⚡ I love optimizing algorithms and designing production-ready solutions  
-- 🎯 Goal: Become an AI & Cloud Architect  
+###
 
----
+<p align="left">🔭 I’m building AI-driven applications and cloud-integrated web systems<br>📚 Currently learning distributed systems, ML deployment & scalable architecture<br>⚡ I love optimizing algorithms and designing production-ready solutions<br>🎯 Goal: Become an AI & Cloud Architect</p>
 
-## 🧠 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000?style=for-the-badge)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-000?style=for-the-badge)
----
+###
 
-## ☁ Cloud & Backend
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Jupyter](https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws)
----
+<h3 align="left">🛠 Language and tools</h3>
 
-## 🌐 Web Development
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
 
-## 📊 GitHub Stats
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishrat-fatima67&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishrat-fatima67&layout=compact&theme=tokyonight" height="180"/>
-</p>
+<h3 align="left">🔥   My Stats :</h3>
 
----
+###
 
-## 🌍 Vision
+<h3 align="left">Links</h3>
 
+###
 
-> “Bridging Artificial Intelligence with Cloud Infrastructure to build scalable intelligent systems.”
+<div align="left">
+  <a href="www.linkedin.com/in/ishu6787" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="ishratf357@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
