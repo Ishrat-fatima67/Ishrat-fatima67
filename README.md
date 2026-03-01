@@ -53,7 +53,9 @@
 
 ## 📊 Contribution Graph
 
-![GitHub Activity Graph](https://github.com/Ishrat-fatima67/Ishrat-fatima67/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ishrat-fatima67&theme=tokyonight" height="180"/>
+</p>
 ---
 ## 🌍 Vision
 
