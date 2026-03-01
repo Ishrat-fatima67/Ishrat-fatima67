@@ -52,9 +52,8 @@
 ---
 
 ## 📊 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ishrat-fatima67&theme=tokyo-night" />
-</p>
+
+![GitHub Activity Graph](https://github.com/Ishrat-fatima67/Ishrat-fatima67/blob/output/github-contribution-grid-snake.svg)
 ---
 ## 🌍 Vision
 
